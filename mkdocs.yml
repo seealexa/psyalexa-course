@@ -1,0 +1,6 @@
+site_name: PsyAlexa Transformation Course
+theme:
+  name: material
+  language: ru
+nav:
+  - Главная: index.md
